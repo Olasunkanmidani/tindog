@@ -1,2 +1,1 @@
-# tindog
-Meeting new dog breeds
+TinDog Starting Files
